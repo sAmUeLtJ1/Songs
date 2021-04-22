@@ -18,4 +18,4 @@ How precious it is for me to have a glimpse into Paul’s spirit such that it co
 
 So to know the love of Christ is to know him crucified. Only in living a life when the “I” is being crucified to the world, would I be able to pass on such love to others also.
 
-![R0300](/Users/samuel/Desktop/Songs/Songs/_posts/R0300.png)
+![R0300](R0300.png)
