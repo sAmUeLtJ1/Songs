@@ -18,8 +18,11 @@ How precious it is for me to have a glimpse into Paul’s spirit such that it co
 
 So to know the love of Christ is to know him crucified. Only in living a life when the “I” is being crucified to the world, would I be able to pass on such love to others also.
 
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="http://christiandiscipleschurch.org/sites/default/files/music/mp3/D0300.mp3"></iframe>
-
 
 ![R0300](https://github.com/songsworship/Songs/blob/main/_posts/images/R0300.png?raw=true)
 
+
+
+---
+
+[诗歌下载](http://christiandiscipleschurch.org/sites/default/files/music/mp3/D0300.mp3)｜[伴奏下载](http://christiandiscipleschurch.org/sites/default/files/music/mp3/D0300i.mp3)｜[歌谱下载](http://christiandiscipleschurch.org/sites/default/files/music/pdf/D0300.pdf)｜[诗歌MP4下载](http://christiandiscipleschurch.org/sites/default/files/music/mp4/D0300.mp4)
