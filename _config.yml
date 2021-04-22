@@ -4,10 +4,10 @@
 # ---------------------------------------------------------------
 
 # Site
-title: Couragelogos
-subtitle:
-description: wublub dubda
-author: Logos
+title: Songs Worship 
+subtitle: Fork by CDC
+description: Let's Worship YHWH by Songs.
+author: nobody
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: zh-Hans
 date_format: '%Y-%m-%d'
@@ -216,8 +216,6 @@ font:
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
 social:
   #LinkLabel: Link
-    GitHub: https://github.com/Logos23333
-    School: http://www.scut.edu.cn/new
 
 
 # Social Links Icons
